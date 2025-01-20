@@ -7,3 +7,5 @@ Output: 4
 Explanation: After the rain, water is trapped between the blocks.
 We have two small ponds 1 and 3 units trapped.
 The total volume of water trapped is 4.
+
+[Leetcode](https://leetcode.com/problems/trapping-rain-water-ii/description/)
