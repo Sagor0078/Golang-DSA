@@ -1,5 +1,3 @@
-# Golang-DSA
-
 
 # Golang Data Structures and Algorithms (DSA)
 
