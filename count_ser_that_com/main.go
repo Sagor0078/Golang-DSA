@@ -1,4 +1,4 @@
-
+package main
 
 func countServers(grid [][]int) int {
 	N := len(grid)
