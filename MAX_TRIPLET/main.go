@@ -9,7 +9,7 @@ func maximumTripletValue(nums []int) int64 {
         
         ans = max(ans, maxDiff*num)
         
-        maxDiff = max(maxDiff, maxNum-num)
+        maxDiff = max(maxDiff, maxNum - num)
         
         maxNum = max(maxNum, num)
     }
