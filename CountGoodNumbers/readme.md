@@ -1,0 +1,1 @@
+[LeetCode](https://leetcode.com/problems/count-good-numbers/description/?envType=daily-question&envId=2025-04-13)
