@@ -1,0 +1,1 @@
+[LeetCode](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/?envType=daily-question&envId=2025-04-19)
